@@ -1,0 +1,5 @@
+aegir-hostmaster	aegir/db_password	password	PASSWORD
+aegir-hostmaster	aegir/db_user	string	root
+aegir-hostmaster	aegir/email	string	aegir@HostMaster
+aegir-hostmaster	aegir/db_host	string	localhost
+aegir-hostmaster	aegir/site	string	aegir.HostMaster
